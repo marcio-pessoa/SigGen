@@ -1,6 +1,6 @@
 /* SigGen.h - Signal Waveform Generator Library
  * 
- * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
+ * Author: Márcio Pessoa <marcio.pessoa@gmail.com>
  * Contributors: none
  * 
  * Waveform example with duration 1000 milliseconds:
