@@ -1,4 +1,4 @@
-/* SigGen.cpp - Signal Generator
+/* SigGen.cpp - Signal Generator Library
  * 
  */
 

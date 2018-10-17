@@ -1,4 +1,4 @@
-/* SigGen.h - Signal Waveform Generator
+/* SigGen.h - Signal Waveform Generator Library
  * 
  * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
  * Contributors: none
